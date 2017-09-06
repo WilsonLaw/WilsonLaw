@@ -2492,11 +2492,11 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 80%;
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 80%;
 			}
 
 /* List */
@@ -2987,7 +2987,7 @@
 		.spotlight.top .content, .spotlight.bottom .content {
 			left: 0;
 			padding: 5.1em 0 3.1em 0;
-			width: 80%;
+			width: 100%;
 		}
 
 		.spotlight.top .content {
@@ -3001,7 +3001,7 @@
 		}
 
 		.spotlight.left .content, .spotlight.right .content {
-			height: 80%;
+			height: 100%;
 			padding: 6em 3em;
 			top: 0;
 			width: 28em;
